@@ -9,7 +9,7 @@ blog({
   links: [
     { title: "Email", url: "mailto:rickyrazhari83@gmail.com" },
     { title: "GitHub", url: "https://github.com/rickyraz" },
-    { title: "Twitter", url: "https://twitter.com/rickyrazhari8" },
+    { title: "Twitter", url: "https://twitter.com/ricky_ra_" },
     {
       title: "Portfolio",
       url: "https://rickraz-portfolio.vercel.app/",
